@@ -48,7 +48,7 @@ All seeded accounts use the password **`Sajilo@2026`**.
 
 | Role | Name | Email | Password |
 | --- | --- | --- | --- |
-| Administrator | Arya Gautam | `arya22013071@iimscollege.edu.np` | `Sajilo@2026` |
+| Administrator | Arya Gautam | `arya@gmail.com` | `Sajilo@2026` |
 | Staff | Prakriti Adhikari | `prakriti@sajilocrm.test` | `Sajilo@2026` |
 | Staff | Rohan Karki | `rohan@sajilocrm.test` | `Sajilo@2026` |
 | Staff | Udesh Shrestha | `udesh@sajilocrm.test` | `Sajilo@2026` |
