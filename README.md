@@ -1,6 +1,6 @@
 # Sajilo CRM
 
-A complete client and project management web application built for the Sajilo Studio industrial training project described in Chapter 4. It pairs a Laravel 12 REST API with a server-rendered, responsive Bootstrap 5 interface and a MariaDB/MySQL database.
+A complete client and project management web application built for the Sajilo Studio industrial training project It pairs a Laravel 12 REST API with a server-rendered, responsive Bootstrap 5 interface and a MariaDB/MySQL database.
 
 The application is intentionally framework-first: Blade, vanilla JavaScript, Bootstrap 5, Bootstrap Icons and Chart.js. There is no React, Vue, Alpine or CDN dependency, so it runs fully offline after `composer install`.
 
