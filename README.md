@@ -48,11 +48,11 @@ All seeded accounts use the password **`Sajilo@2026`**.
 
 | Role | Name | Email | Password |
 | --- | --- | --- | --- |
-| Administrator | Arya Gautam | `arya@gmail.com` | `Sajilo@2026` |
-| Staff | Prakriti Adhikari | `prakriti@sajilocrm.test` | `Sajilo@2026` |
-| Staff | Rohan Karki | `rohan@sajilocrm.test` | `Sajilo@2026` |
-| Staff | Udesh Shrestha | `udesh@sajilocrm.test` | `Sajilo@2026` |
-| Staff | Suraj Thakuri | `suraj@sajilocrm.test` | `Sajilo@2026` |
+| Administrator | *******` | `*******` |
+| Staff | *******` | `*******` |
+| Staff | *******` | `*******` |
+| Staff | *******t` | `*******` |
+| Staff | *******` | `*******` |
 
 The seeder creates **14 fictional clients** and **20 fictional projects** across active, prospect and inactive clients, with planning, in-progress, on-hold, completed and cancelled projects.
 
